@@ -18,7 +18,9 @@
   background-color: rgb(255, 204, 204, 0.5);
   color: indianred;
 }
-
+.carousel .carousel-item {
+  transition-duration: 3s;
+}
 .headings {
   text-align: center;
   margin-top: 40px;
