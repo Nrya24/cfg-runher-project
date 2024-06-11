@@ -1,0 +1,124 @@
+.logo-position {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.menu {
+  background-color: #fef8f8;
+  font-family: Arial, Helvetica, sans-serif;
+  font-stretch: extra-expanded;
+  font-weight: 100;
+  margin-bottom: 10px;
+}
+.justify-content-center li a {
+  color: black;
+}
+.justify-content-center > li > a:hover {
+  background-color: rgb(255, 204, 204, 0.5);
+  color: indianred;
+}
+
+.headings {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 40px;
+}
+
+.intro-paragraph {
+  text-align: center;
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+  font-size: 17px;
+}
+
+li {
+  text-align: center;
+  font-size: 16px;
+}
+ul {
+  list-style-type: none;
+}
+
+.marathons-heading {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 30px;
+  margin-left: 40px;
+  margin-right: 40px;
+  padding: 20px;
+  background-color: rgb(255, 204, 204, 0.5);
+  border-radius: 10px 100px / 120px;
+}
+
+.accordion {
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-top: 100px;
+}
+
+#flush-collapseOne {
+  background-color: rgb(255, 204, 204, 0.5);
+}
+#flush-collapseTwo {
+  background-color: rgb(255, 204, 204, 0.5);
+}
+#flush-collapseThree {
+  background-color: rgb(255, 204, 204, 0.5);
+}
+.go-fund-me {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 30px;
+  margin-left: 40px;
+  margin-right: 40px;
+  padding: 20px;
+  background-color: rgb(205, 92, 92, 0.5);
+  border-radius: 10px 100px / 120px;
+}
+
+.go-fund-p {
+  text-align: left;
+  margin-top: 40px;
+  margin-left: 20px;
+
+  font-size: 17px;
+}
+.go-fund-image {
+  padding: 20px;
+  margin-top: 15px;
+  margin-left: 60px;
+}
+.col {
+  display: grid;
+  align-items: left;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: indianred;
+  color: white;
+}
+.fa-twitter {
+  background: palevioletred;
+  color: white;
+}
+
+.fa-instagram {
+  background: purple;
+  color: white;
+}

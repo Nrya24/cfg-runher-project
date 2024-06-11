@@ -1,0 +1,116 @@
+.logo-position {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.menu {
+  background-color: #fef8f8;
+  font-family: Arial, Helvetica, sans-serif;
+  font-stretch: extra-expanded;
+  font-weight: 100;
+  margin-bottom: 10px;
+}
+.justify-content-center li a {
+  color: black;
+}
+.justify-content-center > li > a:hover {
+  background-color: rgb(255, 204, 204, 0.5);
+  color: indianred;
+}
+
+.about-us {
+  font-size: 40px;
+  margin-left: 40px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.intro-1 {
+  text-align: left;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  border-radius: 20px;
+  padding: 50px;
+  margin: 20px;
+  background-color: rgb(255, 204, 204, 0.3);
+}
+
+.headings {
+  font-size: 40px;
+  margin-left: 40px;
+  margin-top: 30px;
+}
+.community-image {
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+.join-club-image {
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+.gear-link {
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+form {
+  border: 3px solid #f1f1f1;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.container {
+  padding: 20px;
+}
+
+input[type="text"],
+input[type="submit"] {
+  width: 100%;
+  padding: 12px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+input[type="checkbox"] {
+  margin-top: 16px;
+}
+
+input[type="submit"] {
+  background-color: rgb(255, 204, 204, 0.5);
+  color: black;
+  border: none;
+}
+
+input[type="submit"]:hover {
+  opacity: 0.8;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: indianred;
+  color: white;
+}
+.fa-twitter {
+  background: palevioletred;
+  color: white;
+}
+
+.fa-instagram {
+  background: purple;
+  color: white;
+}
