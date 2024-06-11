@@ -19,6 +19,10 @@
   color: indianred;
 }
 
+.carousel .carousel-item {
+  transition-duration: 3s;
+}
+
 .about-us {
   font-size: 40px;
   margin-left: 40px;
